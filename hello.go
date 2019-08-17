@@ -23,7 +23,7 @@ Bulgarian: bg: Здравей свят.
 Catalan: ca: Hola món.
 Cebuano: ceb: Hello, kalibutan.
 Chichewa: ny: Moni Dziko Lapansi.
-Chinese (simplified): zh-Hans: 你好，世界。v1.3.0
+Chinese (simplified): zh-Hans: 你好，世界。v1.3.3
 Chinese (traditional): zh-Hant: 你好，世界。
 Corsican: co: Oulu, mondu.
 Croation: hr: Pozdrav svijete.
